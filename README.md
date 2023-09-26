@@ -12,7 +12,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+== Social Media -> Photoshop, In design, After Effects == Front-End -> HTML 5, CSS, Java Script (React)  == Linguagens de Programação -> PYTHON, PHP, SQL ==
  
 <div> 
    <a href="https://instagram.com/fw2b" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
