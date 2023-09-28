@@ -16,7 +16,7 @@
  
 <br>
  
-<h4 font-family: Arial, sans-serif>>>> Social Media -> Photoshop, In design, After Effects.
+<h4 font-family: Arial, sans-serif>>>>Social Media -> Photoshop, In design, After Effects.
 <br>>>>Front-End -> HTML 5, CSS, metodologia CRUD e frameworks como Bootstrap.
 <br>>>>Java Script -> React.
 <br>>>>Python -> Análise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
