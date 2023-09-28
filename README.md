@@ -10,6 +10,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    
 </div>
  
@@ -18,14 +19,14 @@
 == Social Media -> Photoshop, In design, After Effects.
 == Front-End -> HTML 5, CSS, metodologia CRUD e frameworks como Bootstrap.
 == Java Script -> React.
-== Python -> Analise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
-== PHP -> Criação de paginas dinãmicas e porgramação Back-end, aprendizado voltado a POO.
+== Python -> Análise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
+== PHP -> Criação de páginas dinãmicas e programação Back-end, aprendizado voltado a POO.
 == SQL -> MySQL, PostGree.
 == Versionamento: Git
 == Ferramentas -> Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git.
  
 <div> 
    <a href="https://instagram.com/fw2b" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "fmcnit@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href ="fmcnit@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/fmcnit" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
