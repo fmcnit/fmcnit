@@ -9,11 +9,20 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+   
 </div>
  
 <br>
  
-== Social Media -> Photoshop, In design, After Effects == Front-End -> HTML 5, CSS, Java Script (React)  == Linguagens de Programação -> PYTHON, PHP, SQL ==
+== Social Media -> Photoshop, In design, After Effects.
+== Front-End -> HTML 5, CSS, metodologia CRUD e frameworks como Bootstrap.
+== Java Script -> React.
+== Python -> Analise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
+== PHP -> Criação de paginas dinãmicas e porgramação Back-end, aprendizado voltado a POO.
+== SQL -> MySQL, PostGree.
+== Versionamento: Git
+== Ferramentas -> Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git.
  
 <div> 
    <a href="https://instagram.com/fw2b" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
