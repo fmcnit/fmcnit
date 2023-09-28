@@ -16,14 +16,15 @@
  
 <br>
  
-<h2>>>> Social Media -> Photoshop, In design, After Effects.
+<h4 font-family: Arial, sans-serif>>>> Social Media -> Photoshop, In design, After Effects.
 <br>>>>Front-End -> HTML 5, CSS, metodologia CRUD e frameworks como Bootstrap.
 <br>>>>Java Script -> React.
 <br>>>>Python -> Análise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
-== PHP -> Criação de páginas dinãmicas e programação Back-end, aprendizado voltado a POO.
-== SQL -> MySQL, PostGree.
-== Versionamento: Git
-== Ferramentas -> Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git.
+<br>>>>PHP -> Criação de páginas dinãmicas e programação Back-end, aprendizado voltado a POO.
+<br>>>>SQL -> MySQL, PostGree.
+<br>>>>Versionamento: Git
+<br>>>>Ferramentas -> Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git. 
+</h4>
  
 <div> 
    <a href="https://instagram.com/fw2b" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
