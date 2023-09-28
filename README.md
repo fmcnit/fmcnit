@@ -16,10 +16,10 @@
  
 <br>
  
-== Social Media -> Photoshop, In design, After Effects.
-== Front-End -> HTML 5, CSS, metodologia CRUD e frameworks como Bootstrap.
-== Java Script -> React.
-== Python -> Análise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
+<h2>>>> Social Media -> Photoshop, In design, After Effects.
+<br>>>>Front-End -> HTML 5, CSS, metodologia CRUD e frameworks como Bootstrap.
+<br>>>>Java Script -> React.
+<br>>>>Python -> Análise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
 == PHP -> Criação de páginas dinãmicas e programação Back-end, aprendizado voltado a POO.
 == SQL -> MySQL, PostGree.
 == Versionamento: Git
