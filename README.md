@@ -17,12 +17,16 @@
 <br>
  
 <h4 font-family: Arial, sans-serif>>>>Social Media -> Photoshop, In design, After Effects.
-<br>- Front-End -> HTML 5, CSS, metodologia CRUD e frameworks como Bootstrap.
+<br>>>>>Front-End<<<<<
+<br>- HTML 5, CSS, metodologia CRUD e frameworks como Bootstrap.
 <br>- Java Script -> React.
-<br>- Python -> Análise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
-<br>- PHP -> Criação de páginas dinãmicas e programação Back-end, aprendizado voltado a POO.
 <hr>
+<br>>>>>Python<<<<<
+<br>Análise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
+<hr>
+<br>- PHP -> Criação de páginas dinãmicas e programação Back-end, aprendizado voltado a POO.
 <br>-SQL -> MySQL, PostGree.
+   <br>
 <br>>>>Versionamento: Git
 <br>>>>Ferramentas -> Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git. 
 </h4>
