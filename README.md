@@ -25,8 +25,10 @@
 <br>>>>>Python<<<<<
 <br>Análise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
 <hr>
+<br>>>>> Back-End <<<<
 <br>- PHP -> Criação de páginas dinãmicas e programação Back-end, aprendizado voltado a POO.
-<br>-SQL -> MySQL, PostGree.
+<br>- SQL -> MySQL, PostGree.
+<br>- Power BI -> Relatórios interativos e criação de dashboards.
    <br>
 <br>>>>Versionamento: Git
 <br>>>>Ferramentas -> Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git. 
