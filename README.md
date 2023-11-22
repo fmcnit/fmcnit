@@ -1,4 +1,4 @@
-<div style= background-color: "Black">
+<div style= "background-color:Green">
    <a href="https://github.com/fmcnit">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmcnit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmcnit&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -16,9 +16,9 @@
  
 <br>
  
-<h4 font-family: Arial, sans-serif>>>>Social Media -> Photoshop, In design, After Effects.
+<h4 style ="font-family: Roboto, sans-serif">>>>Social Media -> Photoshop, In design, After Effects.
 <hr>
-<br>>>>>Front-End<<<<<
+<br><span></span>>>>Front-End<<<<</span style = "color: red">
 <br>- HTML 5, CSS, metodologia CRUD e frameworks como Bootstrap e Tailwind CSS.
 <br>- Java Script -> Frameworks como React, Angular.
 <hr>
