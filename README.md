@@ -51,7 +51,7 @@ Git e GitHub
 <hr>
 Ferramentas
 <br>
-Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git.
+<small>Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git.</small>
 <hr>
 Python
 <br>
