@@ -40,19 +40,21 @@ JAVASCRIPT
 <br>
 Me especializando cada dia mais em Javascript e seus frameworks como React, Vue, Vite, NextJS e Angular.
 <br>
+<br>
 Typescript
 <br>
 Super set de Javascript
 <br>
-<hr>
-<hr>
 <br>
+<hr>
+<hr>
 {([ BACK-END ])}
 <hr>
 <br>
 NODEJS
 <br>
 Todas as suas principais Lib's como Express, trabalhando com banco de dados relacionais e não relacionais, autenticação e configuração de midllewares, entre outros.
+<br>
 <br>
 BANCO DE DADOS
 <br>
@@ -71,18 +73,19 @@ Relatórios interativos e criação de dashboards
 Social Media:
 <br>
 Photoshop, In design, After Effects.
-<br>
+<hr>
 Versionamento:
 <br>
 Git e GitHub
-<br>
+<hr>
 Ferramentas:
 <br>
 Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git
-<br>
+<hr>
 Python:
 <br>
 Análise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
+<hr>
 </h4>
  
 
