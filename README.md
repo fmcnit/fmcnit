@@ -25,21 +25,24 @@
 <h4 style ="font-family: arial, sans-serif">
 <hr>
 {([ FRONT-END ])}
-
+<br>
 <br>
 HTML 5 
+<br>
 <br>
 CSS
 <br>
 Motores de css como Bootstrap e Tailwind
 <br>
-Java Script
 <br>
-Me especializando a cada dia mais em Javascript e seus frameworks como React, Vue, Vite, NextJS e Angular
+JAVASCRIPT (Especiliadade)
+<br>
+Me especializando cada dia mais em Javascript e seus frameworks como React, Vue, Vite, NextJS e Angular.
 <br>
 Typescript
 <br>
-
+Super set de Javascript
+<br>
 <hr>
 <br>
 {([ BACK-END ])}
