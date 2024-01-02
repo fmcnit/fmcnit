@@ -44,9 +44,11 @@
 Power BI => Relatórios interativos e criação de dashboards
 <hr>
 Social Media -> Photoshop, In design, After Effects.
+<hr>
 Versionamento: Git
-Ferramentas -> Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git. <hr>
-<br>Python
+Ferramentas -> Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git.
+<hr>
+Python
 <br>
 <br>Análise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
 </h4>
