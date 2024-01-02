@@ -20,12 +20,13 @@
    <a href ="fmcnit@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/fmcnit" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-<hr>
+
  
 <h4 style ="font-family: arial, sans-serif">
 <hr>
+<hr>
 {([ FRONT-END ])}
-<br>
+<hr>
 <br>
 HTML 5 
 <br>
@@ -44,9 +45,10 @@ Typescript
 Super set de Javascript
 <br>
 <hr>
+<hr>
 <br>
 {([ BACK-END ])}
-<br>
+<hr>
 <br>
 NODEJS
 <br>
@@ -57,8 +59,8 @@ BANCO DE DADOS
 MySqls, Postgres e o ORM Sequelize
 <br>
 MongoDB com Prisma ou Mongoose
-<hr>
 <br>
+<hr>
 MORE KNOWLEDGE
 <br>
 <hr>
