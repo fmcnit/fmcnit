@@ -25,9 +25,20 @@
 <h4 style ="font-family: arial, sans-serif">
 <hr>
 {([ FRONT-END ])}
-<hr>
-<br>- HTML 5, CSS, metodologia CRUD e frameworks como Bootstrap e Tailwind CSS.
-<br>- Java Script -> Frameworks como React, Angular.
+
+<br>
+HTML 5 
+<br>
+CSS
+<br>
+Motores de css como Bootstrap e Tailwind
+<br>
+Java Script
+<br>
+Me especializando a cada dia mais em Javascript e seus frameworks como React, Vue, Vite, NextJS e Angular
+<br>
+Typescript
+<br>
 
 <hr>
 <br>
