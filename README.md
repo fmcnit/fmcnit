@@ -46,7 +46,6 @@ Super set de Javascript
 <br>
 <br>
 <br>
-<br>
 <hr>
 {([ BACK-END ])}
 <hr>
