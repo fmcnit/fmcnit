@@ -24,7 +24,7 @@
  
 <h4 style ="font-family: arial, sans-serif">>>>Social Media -> Photoshop, In design, After Effects.
 <hr>
-<br><span style = "color: red">Front-End</span>
+<br><span style = color: red>Front-End</span>
 <br>- HTML 5, CSS, metodologia CRUD e frameworks como Bootstrap e Tailwind CSS.
 <br>- Java Script -> Frameworks como React, Angular.
 <hr>
