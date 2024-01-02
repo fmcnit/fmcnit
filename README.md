@@ -24,27 +24,30 @@
  
 <h4 style ="font-family: arial, sans-serif">
 <hr>
-<br><span style = color: red>Front-End</span>
+{([ FRONT-END ])}
+<hr>
 <br>- HTML 5, CSS, metodologia CRUD e frameworks como Bootstrap e Tailwind CSS.
 <br>- Java Script -> Frameworks como React, Angular.
 
 <hr>
 <br>
-- BACK-END -
+{([ BACK-END ])}
 <br>
 <br>
 NODEJS
 <br>
 Todas as suas principais Lib's como Express, trabalhando com banco de dados relacionais e não relacionais, autenticação e configuração de midllewares, entre outros.
 <br>
-<hr>
 BANCO DE DADOS
 <br>
-MySqls, Postgres e o ORM Sequilize
+MySqls, Postgres e o ORM Sequelize
 <br>
 MongoDB com Prisma ou Mongoose
 <hr>
 <br>
+MORE KNOWLEDGE
+<br>
+<hr>
 Power BI
 <br>
 Relatórios interativos e criação de dashboards
@@ -52,18 +55,18 @@ Relatórios interativos e criação de dashboards
 Social Media:
 <br>
 Photoshop, In design, After Effects.
-<hr>
+<br>
 Versionamento:
 <br>
 Git e GitHub
-<hr>
+<br>
 Ferramentas:
 <br>
 Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git
-<hr>
-Python
 <br>
-<br>Análise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
+Python:
+<br>
+Análise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
 </h4>
  
 
