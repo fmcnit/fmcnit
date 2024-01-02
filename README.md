@@ -34,13 +34,15 @@
 <br>
 <br>
 NODEJS
-Todas sua principais Lib's como Express trabalhando com banco de dados relacionais e não relacionais.
+<br>
+Todas as suas principais Lib's como Express, trabalhando com banco de dados relacionais e não relacionais, autenticação e configuração de midllewares, entre outros.
 <br>
 <hr>
 BANCO DE DADOS
-<hr>
-<br> => MySqls, Postgres e o ORM Sequilize
-<br> => MongoDB com Prisma ou Mongoose
+<br>
+MySqls, Postgres e o ORM Sequilize
+<br>
+MongoDB com Prisma ou Mongoose
 <hr>
 <br>
 Power BI
