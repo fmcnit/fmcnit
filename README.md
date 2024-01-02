@@ -35,7 +35,7 @@ CSS
 Motores de css como Bootstrap e Tailwind
 <br>
 <br>
-JAVASCRIPT (Especiliadade)
+JAVASCRIPT
 <br>
 Me especializando cada dia mais em Javascript e seus frameworks como React, Vue, Vite, NextJS e Angular.
 <br>
