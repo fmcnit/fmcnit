@@ -19,26 +19,31 @@
    <a href="https://instagram.com/fw2b" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href ="fmcnit@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/fmcnit" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/IL4iTvQH0MjS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/rip-leonard-nimoy-gif-IL4iTvQH0MjS">via GIPHY</a></p>
-</div>
+  
 <hr>
  
-<h4 style ="font-family: Roboto, sans-serif">>>>Social Media -> Photoshop, In design, After Effects.
+<h4 style ="font-family: arial, sans-serif">>>>Social Media -> Photoshop, In design, After Effects.
 <hr>
-<br><span></span>>>>Front-End<<<<</span style = "color: red">
+<br><span style = "color: red">Front-End</span>
 <br>- HTML 5, CSS, metodologia CRUD e frameworks como Bootstrap e Tailwind CSS.
 <br>- Java Script -> Frameworks como React, Angular.
 <hr>
 <br>>>>>Python<<<<<
 <br>Análise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
 <hr>
-<br>>>>> Back-End <<<<
-<br>- PHP -> Criação de páginas dinãmicas e programação Back-end, aprendizado voltado a POO.
-<br>- SQL -> MySQL, PostGreSQL.
-<br>- Power BI -> Relatórios interativos e criação de dashboards.
+<br>
+   Back-End
+<br>NodeJS: 
+<br> => Todas sua principais Lib's como Express trabalhando com banco de dados relacionais e não relacionais.
+<br>GBD's: 
+<br> => MySqls, Postgres e o ORM Sequilize
+<br> => MongoDB com Prisma ou Mongoose
    <br>
-<br>>>>Versionamento: Git
-<br>>>>Ferramentas -> Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git. 
+   <br>
+Power BI => Relatórios interativos e criação de dashboards
+<hr>
+Versionamento: Git
+Ferramentas -> Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git. 
 </h4>
  
 
