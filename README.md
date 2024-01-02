@@ -30,28 +30,34 @@
 
 <hr>
 <br>
-   Back-End
+- BACK-END -
 <br>
-<br>NodeJS: 
 <br>
-<br> => Todas sua principais Lib's como Express trabalhando com banco de dados relacionais e não relacionais.
+NODEJS
+Todas sua principais Lib's como Express trabalhando com banco de dados relacionais e não relacionais.
 <br>
-<br>GBD's: 
+<hr>
+BANCO DE DADOS
+<hr>
 <br> => MySqls, Postgres e o ORM Sequilize
 <br> => MongoDB com Prisma ou Mongoose
-   <br>
-   <br>
-Power BI => Relatórios interativos e criação de dashboards
 <hr>
-Social Media -> Photoshop, In design, After Effects.
+<br>
+Power BI
+<br>
+Relatórios interativos e criação de dashboards
 <hr>
-Versionamento
+Social Media:
+<br>
+Photoshop, In design, After Effects.
+<hr>
+Versionamento:
 <br>
 Git e GitHub
 <hr>
-Ferramentas
+Ferramentas:
 <br>
-<small>Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git.</small>
+Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git
 <hr>
 Python
 <br>
