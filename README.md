@@ -24,7 +24,6 @@
  
 <h4 style ="font-family: arial, sans-serif">
 <hr>
-<hr>
 {([ FRONT-END ])}
 <hr>
 <br>
@@ -46,7 +45,8 @@ Typescript
 Super set de Javascript
 <br>
 <br>
-<hr>
+<br>
+<br>
 <hr>
 {([ BACK-END ])}
 <hr>
@@ -61,6 +61,7 @@ BANCO DE DADOS
 MySqls, Postgres e o ORM Sequelize
 <br>
 MongoDB com Prisma ou Mongoose
+<br>
 <br>
 <hr>
 MORE KNOWLEDGE
