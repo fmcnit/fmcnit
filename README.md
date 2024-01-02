@@ -1,4 +1,4 @@
-<div "style= background-color: Green">
+<div>
    <a href="https://github.com/fmcnit">
    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=fmcnit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmcnit&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -22,19 +22,20 @@
   
 <hr>
  
-<h4 style ="font-family: arial, sans-serif">>>>Social Media -> Photoshop, In design, After Effects.
+<h4 style ="font-family: arial, sans-serif">
 <hr>
 <br><span style = color: red>Front-End</span>
 <br>- HTML 5, CSS, metodologia CRUD e frameworks como Bootstrap e Tailwind CSS.
 <br>- Java Script -> Frameworks como React, Angular.
-<hr>
-<br>>>>>Python<<<<<
-<br>Análise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
+
 <hr>
 <br>
    Back-End
+<br>
 <br>NodeJS: 
+<br>
 <br> => Todas sua principais Lib's como Express trabalhando com banco de dados relacionais e não relacionais.
+<br>
 <br>GBD's: 
 <br> => MySqls, Postgres e o ORM Sequilize
 <br> => MongoDB com Prisma ou Mongoose
@@ -42,8 +43,12 @@
    <br>
 Power BI => Relatórios interativos e criação de dashboards
 <hr>
+Social Media -> Photoshop, In design, After Effects.
 Versionamento: Git
-Ferramentas -> Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git. 
+Ferramentas -> Workbench, PgAdmin, NetBeans, PyCharm, Jupiter, VS Code, Git. <hr>
+<br>Python
+<br>
+<br>Análise de dados com Python (Pandas, matplotlib, seaborn), Automação (PyautoGUI), Desenvolvimento WEB.
 </h4>
  
 
