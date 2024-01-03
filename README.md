@@ -22,9 +22,9 @@
   
 
  
-<h4 style ="font-family: arial, sans-serif">
+<h4>
 <hr>
-## {([ FRONT-END ])}
+{([ FRONT-END ])}
 <hr>
 <br>
 HTML 5 
