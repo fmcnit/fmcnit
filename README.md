@@ -32,7 +32,7 @@ HTML 5
 <br>
 CSS
 <br>
-Motores de css como Bootstrap e Tailwind
+Bootstrap e Tailwind
 <br>
 <br>
 JAVASCRIPT
@@ -57,9 +57,11 @@ Todas as suas principais Lib's como Express, trabalhando com banco de dados rela
 <br>
 BANCO DE DADOS
 <br>
-MySqls, Postgres e o ORM Sequelize
+MySql, Postgres e o ORM Sequelize
 <br>
 MongoDB com Prisma ou Mongoose
+<br>
+Firebase
 <br>
 <br>
 <hr>
